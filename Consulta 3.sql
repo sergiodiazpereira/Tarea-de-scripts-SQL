@@ -1,0 +1,1 @@
+INSERT INTO jesuita (codigo, nombre, nombreAlumno, firma, firmaIngles) VALUES ('tests','ejemplo de jesuita','ejemplo de nombre alumno','esta es la firma del ejemplo de la consulta 3','third query sign example');
