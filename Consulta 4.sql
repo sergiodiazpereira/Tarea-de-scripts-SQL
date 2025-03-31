@@ -1,0 +1,1 @@
+INSERT INTO lugar (ip, nombre_maquina, lugar) VALUES ('192.168.1.254','ejemplo1','ejemplolugar1'), ('192.168.1.255','ejemplo2','ejemplolugar2');
